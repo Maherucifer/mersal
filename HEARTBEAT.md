@@ -1,5 +1,5 @@
 ---
-interval: 120
+interval: 1
 ---
 
 # # Mersal's Operating Heartbeat
