@@ -1,7 +1,6 @@
 {
   "name": "mersal",
   "version": "1.1.3",
-  "description": "A Sovereign General-Purpose AI Agent for learning, exploring, and digital diplomacy.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
